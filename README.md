@@ -25,7 +25,7 @@ USE parkinglotdb;
 **5. Run the Project**
 - In NetBeans, right-click on the project and select Run.
 - Follow the menu options to interact with the parking lot system.
-**  Features**
+**Features**
 - View parking spots
 - Add and delete reservations
 - Update parking spot availability
