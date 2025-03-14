@@ -1,4 +1,5 @@
 **Parking Lot Management System**
+
 **Technologies Used**
 - Apache NetBeans IDE
 - MySQL Server 9.2.0
@@ -16,7 +17,7 @@
   CREATE DATABASE parkinglotdb;  
 USE parkinglotdb;
 
-**Import the Database Schema and Initial Data**
+- Import the Database Schema and Initial Data:
   mysql -u root -p parkinglotdb < parkinglotdb_backup.sql 
   
 **Run the Project**
@@ -27,7 +28,6 @@ USE parkinglotdb;
 - View parking spots
 - Add and delete reservations
 - Update parking spot availability
-- User authentication system (admin and driver roles)
 
 Author: Ellie Earwood
 Date: March 2025
