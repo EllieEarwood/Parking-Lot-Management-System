@@ -17,7 +17,8 @@ CREATE DATABASE parkinglotdb; USE parkinglotdb;
 
 - Import the database schema and initial data:
 
-mysql -u root -p parkinglotdb < parkinglotdb_backup.sql Ensure parkinglotdb_backup.sql is in the same folder as MySQL or specify the full path
+mysql -u root -p parkinglotdb < parkinglotdb_backup.sql
+- Ensure parkinglotdb_backup.sql is in the same folder as MySQL or specify the full path
 
 **Open the Project in NetBeans**
 
